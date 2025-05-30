@@ -10,10 +10,10 @@ Diagnosing ASD is challenging due to the complexity and variability of symptoms,
 
 ## Data
 - Sources: Three publicly available Kaggle datasets spanning toddlers, children, and adults.
- - Kaggle Links to Datasets:
-    [Link Text]https://www.kaggle.com/datasets/fabdelja/autism-screening-for-toddlers/data
-    [Link Text]https://www.kaggle.com/datasets/uppulurimadhuri/dataset/data
-    [Link Text]https://www.kaggle.com/datasets/andrewmvd/autism-screening-on-adults/data
+  - Kaggle Links to Datasets:
+     - [Link Text]https://www.kaggle.com/datasets/fabdelja/autism-screening-for-toddlers/data
+     - [Link Text]https://www.kaggle.com/datasets/uppulurimadhuri/dataset/data
+     - [Link Text]https://www.kaggle.com/datasets/andrewmvd/autism-screening-on-adults/data
 
 - Screening Basis: A1–A9 question-based assessments plus demographic and clinical attributes.
 - Target: Binary classification of ASD traits (Yes/No).
@@ -33,10 +33,8 @@ Unified datasets by standardizing column names and selecting shared features.
 ## Methodology
 ### Feature Selection
 Selected top 10 out of 16 features using:
-
-Information Gain (Entropy): Slightly better performance
-
-Information Gain (Gini Index): Similar results, slight feature variation
+- Information Gain (Entropy): Slightly better performance
+- Information Gain (Gini Index): Similar results, slight feature variation
 
 ### Models Used
 #### Support Vector Machine (SVM)
@@ -59,7 +57,7 @@ Information Gain (Gini Index): Similar results, slight feature variation
 | ANN   | 89.3%            | 83.8%         |
 | SVM   | 86.0%            | 82.0%         |
 
-** MLP outperformed both SVM and ANN in both feature settings.**
+**MLP outperformed both SVM and ANN in both feature settings.**
 
 ## Tech Stack
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
