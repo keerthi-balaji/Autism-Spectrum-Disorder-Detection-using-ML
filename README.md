@@ -11,9 +11,9 @@ Diagnosing ASD is challenging due to the complexity and variability of symptoms,
 ## Data
 - Sources: Three publicly available Kaggle datasets spanning toddlers, children, and adults.
   - Kaggle Links to Datasets:
-     - [Link Text]https://www.kaggle.com/datasets/fabdelja/autism-screening-for-toddlers/data
-     - [Link Text]https://www.kaggle.com/datasets/uppulurimadhuri/dataset/data
-     - [Link Text]https://www.kaggle.com/datasets/andrewmvd/autism-screening-on-adults/data
+     - https://www.kaggle.com/datasets/fabdelja/autism-screening-for-toddlers/data
+     - https://www.kaggle.com/datasets/uppulurimadhuri/dataset/data
+     - https://www.kaggle.com/datasets/andrewmvd/autism-screening-on-adults/data
 
 - Screening Basis: A1–A9 question-based assessments plus demographic and clinical attributes.
 - Target: Binary classification of ASD traits (Yes/No).
