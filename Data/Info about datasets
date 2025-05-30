@@ -1,0 +1,15 @@
+We collected data from Kaggle. We found 3 datasets. 
+
+The first dataset contained data of individuals of age 3 or younger. It had 1054 training examples and 19 attributes. 
+
+Source for this dataset: https://www.kaggle.com/datasets/fabdelja/autism-screening-for-toddlers/data
+
+The second dataset had data about individuals of age 18 and younger. This dataset had 1985 training examples 
+and 28 attributes. 
+
+Source for this dataset: https://www.kaggle.com/datasets/uppulurimadhuri/dataset/data
+
+The third dataset contained data for individuals of age 18 and older. This dataset had 704 training examples 
+and 21 attributes. 
+
+Source for this dataset: https://www.kaggle.com/datasets/andrewmvd/autism-screening-on-adults/data
